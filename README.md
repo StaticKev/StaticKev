@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StaticKev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Data Structures & Algorithm
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by email: statickev321@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I aimed to be a clean coder!
